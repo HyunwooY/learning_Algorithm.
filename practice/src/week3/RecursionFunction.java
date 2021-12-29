@@ -9,6 +9,7 @@ public class RecursionFunction {
 		int num=scan.nextInt();
 		System.out.println("어느 한 컴퓨터공학과 학생이 유명한 교수님을 찾아가 물었다.");
 		recursion(num,0);
+		
 	}
 	public static void recursion(int num,int count) {
 		String underbar="";

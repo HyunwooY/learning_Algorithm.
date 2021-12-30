@@ -1,10 +1,10 @@
 package week3;
 
-import java.io.IOException;
+
 import java.util.Scanner;
 
 public class RecursionFunction {
-	public static void main(String[] args) throws IOException {
+	public static void main(String[] args){
 		Scanner scan=new Scanner(System.in);
 		int num=scan.nextInt();
 		System.out.println("어느 한 컴퓨터공학과 학생이 유명한 교수님을 찾아가 물었다.");
